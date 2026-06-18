@@ -1,0 +1,14 @@
+
+> ia-entrevistador@0.1.0 dev
+> next dev
+
+▲ Next.js 16.2.9 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.0.2:3000
+✓ Ready in 546ms
+
+○ Compiling / ...
+ GET / 200 in 6.0s (next.js: 5.6s, application-code: 438ms)
+ GET / 200 in 88ms (next.js: 7ms, application-code: 81ms)
+ GET / 200 in 66ms (next.js: 6ms, application-code: 60ms)
+[?25h
